@@ -1,0 +1,9 @@
+/* Main Wallpaper */
+#app-mount {
+    background: url("https://w.wallhaven.cc/full/95/wallhaven-9591d8.png") center/cover no-repeat;
+}
+
+/* HOME BUTTON BACKGROUND */
+.homeIcon-tEMBK1 {
+    background: url(https://i.imgur.com/09fncQw.png) center/contain no-repeat;
+}
